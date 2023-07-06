@@ -8,6 +8,8 @@ name = "easysplash"
 version = "1.90.0"
 authors = ["Otavio Salvador <otavio@ossystems.com.br>"]
 edition = "2018"
+repository = "https://github.com/Dhruvesh08/EasySplash"
+homepage = "https://github.com/Dhruvesh08/EasySplash"
 
 [dependencies]
 anyhow = "1.0.70"
